@@ -1,2 +1,2 @@
-# Tetris
+# tetris
 Java implementation of Tetris
